@@ -1,6 +1,6 @@
 # Daily ToDo App
 
-** Project Idea: **
+**Project Idea:**
 The Daily ToDo App is a simple and efficient web application designed to help users manage their daily tasks. It focuses on simplicity, usability, and productivity, making it easy to keep track of what needs to be done.
 
 ## Features
